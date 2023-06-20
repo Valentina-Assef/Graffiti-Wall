@@ -1,4 +1,4 @@
-# Portfolio Desarrolladora Full Stack Jr.
+# Graffiti Wall
 
 ![](./img/screenshot.png)
 
